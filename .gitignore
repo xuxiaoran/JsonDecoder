@@ -1,0 +1,25 @@
+# mac
+.DS_Store
+
+# IntelliJ
+/.idea
+/verdict.iml
+
+# build
+/out
+/config.conf
+/build/sbt-launch-0.13.9.jar
+/error-test
+target/
+*.class
+
+# eclipse
+.classpath
+.project
+.settings
+
+# log
+*.log
+
+# Test configuration files
+*.test
